@@ -12,4 +12,6 @@ export MESOS_log_dir=/var/lib/mesos/log
 export MESOS_work_dir=/var/lib/mesos/run
 export MESOS_isolation=cgroups
 
+export MESOS_quorum=1
+export MESOS_cluster=HenryWu
 
