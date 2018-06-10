@@ -1,0 +1,11 @@
+```
+$du -sh *
+8.0M  bin
+40K etc
+13M include
+1.1G  lib
+34M libexec
+5.0M  sbin
+968K  share
+```
+
