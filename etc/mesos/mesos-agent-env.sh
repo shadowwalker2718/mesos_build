@@ -7,8 +7,8 @@
 
 # The mesos master URL to contact. Should be host:port for
 # non-ZooKeeper based masters, otherwise a zk:// or file:// URL.
-#export MESOS_master=u3:5050
-export MESOS_master=zk://u3:5050
+export MESOS_master=u3:5050
+#export MESOS_master=zk://u3:5050
 
 # Other options you're likely to want to set:
 export MESOS_log_dir=/var/lib/mesos/log
