@@ -14,4 +14,9 @@ export MESOS_isolation=cgroups
 
 export MESOS_quorum=1
 export MESOS_cluster=HenryWu
+export MESOS_roles=www-data
+
+# --zzz=xxx 
+# export MESOS_zzz=xxx
+
 
